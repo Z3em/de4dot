@@ -97,7 +97,7 @@ The following command line will deobfuscate all assemblies that have been obfusc
 Detect obfuscator
 -----------------
 
-Use the `-d` option to detect the obfuscator without deobfuscating any assembly.
+Use the `-d` option to detect the obfuscator without deobfuscating any assembly. 
 
 Find all .NET assemblies and detect obfuscator. If it's an unsupported obfuscator or if it's not obfuscated, it will print "Unknown obfuscator".
 
